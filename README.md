@@ -1,2 +1,2 @@
 # Git_Start
-Linear Regression Model
+Linear Regression model with single variable without using scikit-learn library.
